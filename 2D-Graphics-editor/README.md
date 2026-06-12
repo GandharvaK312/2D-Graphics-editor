@@ -1,1 +1,1 @@
-# 2D Graphics editor
+# 2D graphics editor
